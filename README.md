@@ -14,7 +14,30 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 ### <🛠> Tech Stack </🛠>
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIMP badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Main Skills Languages </br>
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="c#" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg" alt="kotlin" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="python" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="c++" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="javascript" width="40" height="40" /></code>&nbsp;
+
+### Other Tools And Languages </br>
+
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg" alt="android" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" alt="boostrap" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg" alt="jquery" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="css" width="40" height="40" /></code>&nbsp;
+
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="html" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" alt="json" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" alt="gitlab" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg" alt="azure" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="github" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" alt="firebase" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" alt="docker" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="mysql" width="40" height="40" /></code>&nbsp;
+<code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="vscode" width="40" height="40" /></code>&nbsp;
 
 ---
 
@@ -22,7 +45,16 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 
 [![Payam's GitHub stats](https://github-readme-stats.vercel.app/api?username=payamdarabi&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/PayamDarabi) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamDarabi&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/PayamDarabi) 
-| ----------- | ------------ |
+
+---
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miladv33)](https://github.com/miladv33/github-profile-trophy)
+
+<br>
 
 ---
 
