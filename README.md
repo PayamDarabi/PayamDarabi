@@ -12,16 +12,15 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 ---
 
-### <🛠> Tech Stack </🛠>
+### Tech Stack 
 
-### Main Skills Languages </br>
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="c#" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg" alt="kotlin" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="python" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="c++" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="javascript" width="40" height="40" /></code>&nbsp;
 
-### Other Tools And Languages </br>
+</br>
 
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg" alt="android" width="40" height="40" /></code>&nbsp;
 <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" alt="boostrap" width="40" height="40" /></code>&nbsp;
@@ -40,7 +39,7 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 ---
 
-### <📫> How to reach me </📫>
+### How to reach me 
 
 [![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payam-darabi-162a58108/)
 
