@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi
  
-### <🌹> About me </🌹>
+###  About me 
 
 My name is Payam and I'm a Iranian **Fullstack developer**. I'm here on GitHub to:
 - Share my codes;
@@ -40,27 +40,9 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 ---
 
-### <📊> GitHub stats </📊>
-
-
-[![Payam's GitHub stats](https://github-readme-stats.vercel.app/api?username=payamdarabi&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/PayamDarabi) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamDarabi&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/PayamDarabi) 
-
----
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=miladv33)](https://github.com/miladv33/github-profile-trophy)
-
-<br>
-
----
-
 ### <📫> How to reach me </📫>
 
 [![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payam-darabi-162a58108/)
-[![@PayamDarabi@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@PayamDarabi@yahoo.com")](https://PayamDarabi@yahoo.com)
 
 ---
 
