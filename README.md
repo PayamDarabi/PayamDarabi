@@ -41,7 +41,7 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 
 ### How to reach me 
 
-[![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payam-darabi-162a58108/)
+[![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payamdarabi/)
 
 ---
 
