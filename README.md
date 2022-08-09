@@ -22,7 +22,8 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 </br>
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamDarabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 ### How to reach me 
 
 [![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payamdarabi/)
