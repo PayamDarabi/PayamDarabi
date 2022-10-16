@@ -27,12 +27,3 @@ Feel free to visit [my repositories](https://github.com/PayamDarabi?tab=reposito
 ### How to reach me 
 
 [![@PayamDarabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@PayamDarabi")](https://www.linkedin.com/in/payamdarabi/)
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
-
-------
-
-Credit: [PayamDarabi](https://github.com/PayamDarabi)
-Last Edited on: 26/7/2022.
